@@ -14,6 +14,7 @@ Initialized empty Git repository in /path/to/repo/.git/
 $ git status
 On branch main
 nothing to commit, working tree clean
+```
 
 (2) Mac
 
