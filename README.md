@@ -6,9 +6,14 @@ c++ 컴파일러를 설치합니다.
 
 (1) Ubuntu/Debian
 
-'''
-sudo apt update
-sudo apt install g++
+
+```bash
+$ git init
+Initialized empty Git repository in /path/to/repo/.git/
+
+$ git status
+On branch main
+nothing to commit, working tree clean
 
 (2) Mac
 
