@@ -8,12 +8,8 @@ c++ 컴파일러를 설치합니다.
 
 
 ```bash
-$ git init
-Initialized empty Git repository in /path/to/repo/.git/
-
-$ git status
-On branch main
-nothing to commit, working tree clean
+sudo apt update
+sudo apt install g++
 ```
 
 (2) Mac
